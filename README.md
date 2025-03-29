@@ -6,11 +6,10 @@
 This repository contains a simple web-based timer and stopwatch application built with HTML, CSS, and JavaScript.
 ## Demo
 
-### StopWatch
-![Screenshot (31)](https://github.com/Nikhil10012/Timer-and-StopWatch/assets/115356116/21c213ab-982f-4580-b951-4350a588458e)
+### StopWatch And Timer
 
-### Timer
-![Screenshot (30)](https://github.com/Nikhil10012/Timer-and-StopWatch/assets/115356116/e1922c83-735c-4725-ab0f-6b9cc1c6cd03)
+ ![Screenshot 2025-03-29 184128](https://github.com/user-attachments/assets/0e9b1c92-bb4a-4aad-b548-529885911e3a)
+
 
 ## Features
 
@@ -38,6 +37,7 @@ This repository contains a simple web-based timer and stopwatch application buil
 - CSS
 - JavaScript
 
-
+## Link
+Link-https://timerstopwatchnik.netlify.app/
 
 
